@@ -1,24 +1,22 @@
 ---
 templateKey: site-data
 published: true
-name: Client Name
-jobTitle: Client's Job Title
-location: City, State, Country
+name: Clinton Lewis
 profileImage:
-  src: /img/default-profile-male.png
-  alt: Client's headshot
-siteUrl: https://url.com
+  src: /img/clinton-lewis-wingstop.jpg
+  alt: Clinton Lewis' headshot
+siteUrl: https://clinton-lewis.com
 socialLinks:
   twitter:
     url: https://www.x.com
     label: Visit
-    show: true
+    show: false
   facebook:
     url: https://www.facebook.com
     label: Visit
-    show: true
+    show: false
   linkedin:
-    url: https://www.linkedin.com
+    url: https://www.linkedin.com/in/clint-lewis-a7101425
     label: Visit
     show: true
   pinterest:
@@ -35,6 +33,8 @@ themeOptions:
   colorScheme: londn
   fontScheme: muli
   showThemeSwitcher: false
+location: Bakersfield, California, USA
 fallbackImage: /img/pic-executive-main-banner-01.webp
+jobTitle: Successful Wing Stop Franchisee and Entrepreneur
 siteAnalytics: null
 ---
